@@ -1,37 +1,26 @@
-# Rohit Vishwakarma
+# Hi, I'm Rohit
 
-### Early-career software developer · Python & AI applications · Backend & full-stack
+I build web apps that solve everyday problems, mostly with React, Node.js, GraphQL and Python, and more and more with AI models running locally.
 
-I build practical software projects with Python and JavaScript. My current focus is AI applications using **Streamlit and Ollama**, alongside **React, Node.js, Express and REST APIs**.
+By day I'm a Level 2 Technical Advisor at EE (BT Group), where I work out why things break for customers and explain the fix in plain language. I have an MSc in Computer Science (Merit) from the University of South Wales.
 
-I hold an **MSc Computer Science (Merit)** from the University of South Wales and work as a **Level 2 Technical Advisor at EE (BT Group)**. My professional experience in technical diagnostics, reporting and customer support complements my project-based software development experience.
+## What I've built
 
-## Selected projects
-
-| Project | What it demonstrates | Stack |
+| Project | What it does | Built with |
 | --- | --- | --- |
-| [Local AI Bill Assistant](https://github.com/rsv13/Local-AI-Chatbot) | PDF-based bill questions, multi-bill comparisons, separate prompt and application modules, response-checking test harness | Python, Streamlit, Ollama |
-| [Social Well-Being Survey](https://github.com/rsv13/Survey) | MSc dissertation: a 14-question survey platform with authentication, role-based administration, storage and scoring | React, Node.js, Express, MongoDB |
-| [Password Manager CLI](https://github.com/rsv13/PasswordManager) | Educational Java application exploring OOP, user/admin roles and credential management; encryption is a planned enhancement | Java |
+| [Bill Assistant](https://github.com/rsv13/bill-assistant) | Ask questions about a mobile bill in plain English. A GraphQL API sits in front of a local language model. | Node.js, Express, GraphQL, Ollama |
+| [EE Bill Help Bot](https://github.com/rsv13/Local-AI-Chatbot) | Reads a bill PDF and answers questions offline, with a test harness that catches broken answers. | Python, Streamlit, Ollama |
+| [Social Well-Being Survey](https://github.com/rsv13/Survey) | My MSc dissertation: a survey app with login, admin roles and automatic scoring. | React, Node.js, Express, MongoDB |
+| [Books Full-Stack](https://github.com/rsv13/books-fullstack) | Add, view, edit and delete books through a GraphQL API backed by SQLite. | Node.js, Apollo GraphQL, SQLite |
 
-The bill assistant is a **personal learning project**, not an official EE or BT product. The password manager is an educational prototype, not a production password vault.
+The bill projects are personal learning projects, not official EE or BT products.
 
-## Technical toolkit
+## What I work with
 
-- **Languages:** Python, JavaScript, Java, HTML and CSS
-- **Web & APIs:** React, Node.js, Express, REST APIs
-- **AI applications:** Streamlit, Ollama, local LLM integration
-- **Data:** MongoDB, Pandas, NumPy; developing SQL skills
-- **Tools:** Git, GitHub, Postman and VS Code
+React, JavaScript, HTML and CSS on the front end. Node.js, Express, REST and GraphQL on the back end. MongoDB, MySQL and SQLite for data. Python and Streamlit for AI tools, with local models through Ollama.
 
-## Background
+## What I'm looking for
 
-- Facilitated HTML, CSS and JavaScript sessions as Vice President of the USW Code Club.
-- Delivered MIT App Inventor workshops in Vietnam.
-- Earlier professional work included Python/Excel reporting workflows and programme metadata delivery.
+Junior software engineer, full-stack or AI application developer roles in the UK, Ireland or Europe.
 
-## Opportunities
-
-Interested in **junior/associate software engineering, Python development, backend and full-stack roles**, including teams building AI applications. Based in Wales, UK; open to international relocation and opportunities offering visa sponsorship.
-
-[LinkedIn](https://www.linkedin.com/in/rsv1303/) · [Email](mailto:rsv130393@gmail.com)
+Email me at rsv130393@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/rsv1303/).
